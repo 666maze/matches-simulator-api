@@ -1,1 +1,19 @@
+[
+  {"descricao":"eliminatorias copa 22"},
+  "local": {
+    "nome":"maracana",
+    "imagem":""
+    }
+  },
+  "mandante": {
+    "nome":"Brasil",
+    "forca":"5",
+    "imagem":""
+  },
 
+  "visitante": {
+    "nome":"Argentina",
+    "forca":"3",
+    "imagem":""
+  }
+]
